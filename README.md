@@ -81,3 +81,7 @@ Mensagem de: @Alice
 Recebi: abcdef
 Resposta: fedcba
 ```
+
+Apresentação
+
+A apresentação do projeto está disponível em docs/apresentacao.pdf.
